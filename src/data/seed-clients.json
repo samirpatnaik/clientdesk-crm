@@ -1,0 +1,46 @@
+[
+  {
+    "id": "c-1001",
+    "name": "Aisha Rahman",
+    "email": "aisha@northwind.co",
+    "company": "Northwind Labs",
+    "phone": "+1 415 555 0142",
+    "status": "Active",
+    "notes": "Weekly check-ins on dashboard rollout.",
+    "createdAt": "2026-01-12T10:00:00.000Z",
+    "updatedAt": "2026-03-01T14:30:00.000Z"
+  },
+  {
+    "id": "c-1002",
+    "name": "Marcus Lee",
+    "email": "marcus@harborretail.com",
+    "company": "Harbor Retail",
+    "phone": "+1 212 555 0198",
+    "status": "Lead",
+    "notes": "Interested in CRM lite pilot for two stores.",
+    "createdAt": "2026-02-03T09:15:00.000Z",
+    "updatedAt": "2026-02-20T11:00:00.000Z"
+  },
+  {
+    "id": "c-1003",
+    "name": "Priya Nair",
+    "email": "priya@cedarhealth.io",
+    "company": "Cedar Health",
+    "phone": "+1 617 555 0110",
+    "status": "Closed",
+    "notes": "Completed onboarding package Q1.",
+    "createdAt": "2025-11-18T16:45:00.000Z",
+    "updatedAt": "2026-01-08T08:20:00.000Z"
+  },
+  {
+    "id": "c-1004",
+    "name": "Jordan Blake",
+    "email": "jordan@summitops.dev",
+    "company": "Summit Ops",
+    "phone": "+1 303 555 0177",
+    "status": "Active",
+    "notes": "Needs export CSV for monthly board pack.",
+    "createdAt": "2026-03-10T12:00:00.000Z",
+    "updatedAt": "2026-03-22T17:10:00.000Z"
+  }
+]
