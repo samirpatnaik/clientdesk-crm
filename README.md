@@ -39,6 +39,8 @@ ClientDesk shows end-to-end product ability: sign-in/out, client list CRUD, Reac
 ## Getting Started
 
 ```bash
+git clone https://github.com/samirpatnaik/clientdesk-crm.git
+cd clientdesk-crm
 npm install
 npm run dev
 ```
@@ -52,12 +54,12 @@ npm run preview
 
 ## Deploy (Vercel)
 
-1. Push this repo to GitHub
-2. Import in Vercel (framework: Vite)
-3. SPA rewrites are in `vercel.json`
+1. Import [samirpatnaik/clientdesk-crm](https://github.com/samirpatnaik/clientdesk-crm) in Vercel (framework: Vite)
+2. SPA rewrites are in `vercel.json`
+3. Deploy — no env vars required (localStorage persistence)
 
 Live: _add Vercel URL after deploy_  
-Code: _add GitHub URL after push_
+Code: https://github.com/samirpatnaik/clientdesk-crm
 
 ## Loom walkthrough
 
