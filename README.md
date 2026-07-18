@@ -52,14 +52,21 @@ npm run build
 npm run preview
 ```
 
-## Deploy (Vercel)
+## Deploy
+
+### GitHub Pages (automatic)
+
+Pushes to `main` run [.github/workflows/deploy-pages.yml](.github/workflows/deploy-pages.yml) and publish to:
+
+**Live:** https://samirpatnaik.github.io/clientdesk-crm/
+
+### Vercel (optional)
 
 1. Import [samirpatnaik/clientdesk-crm](https://github.com/samirpatnaik/clientdesk-crm) in Vercel (framework: Vite)
 2. SPA rewrites are in `vercel.json`
-3. Deploy — no env vars required (localStorage persistence)
+3. No env vars required (localStorage persistence)
 
-Live: _add Vercel URL after deploy_  
-Code: https://github.com/samirpatnaik/clientdesk-crm
+**Code:** https://github.com/samirpatnaik/clientdesk-crm
 
 ## Loom walkthrough
 
@@ -79,4 +86,4 @@ src/
 
 ## Resume line
 
-> **ClientDesk CRM Lite (React.js + TypeScript)** — Built authenticated CRUD app with validated forms, protected routes, and REST/API persistence. Live: [link] | Code: [link]
+> **ClientDesk CRM Lite (React.js + TypeScript)** — Built authenticated CRUD app with validated forms, protected routes, and REST/API persistence. Live: https://samirpatnaik.github.io/clientdesk-crm/ | Code: https://github.com/samirpatnaik/clientdesk-crm
